@@ -21,7 +21,7 @@ class Averagecmd
 		
 		// Calculating the sum
 		
-		int sum =( number1 + number2 / 2 );
+		int sum =( number1 + number2 )/2 ;
 		System.out.println("The Average: "+sum); // To display the values
 		
 	}
