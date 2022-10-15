@@ -29,15 +29,7 @@ class Average
 	   System.out.println("Enter the Second value: ");
 	   int Second value= A1.nextInt();
 	   
-  }
-  
-  
-  // Declaring and Intilizing for Average
-  
-  public static int avr(int a, int b)
-  
-  
-  {
+ 
 	  // Returing of value with the logic in background
 	  
 	  return (a + b)/2;
