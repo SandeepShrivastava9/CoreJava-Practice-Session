@@ -24,7 +24,7 @@ class Average
 	  //Declaring and Intilizig
 	   
 	   System.out.println("Enter the First value: ");
-	   int First value= A1.nextInt();
+	   int First value= A1.nextInt();  // to take integer value
 	   
 	   System.out.println("Enter the Second value: ");
 	   int Second value= A1.nextInt();
